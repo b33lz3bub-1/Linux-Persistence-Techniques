@@ -8,3 +8,4 @@
  The following are the list of Techniques:
  *  Using Systemctl
  *  Using Cron Jobs
+ *  Using XDG

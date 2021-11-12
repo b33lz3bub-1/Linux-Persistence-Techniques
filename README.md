@@ -10,3 +10,6 @@
  *  Using Cron Jobs
  *  Using XDG
  *  Using motd
+
+
+**Feel Free to add to this repo** 

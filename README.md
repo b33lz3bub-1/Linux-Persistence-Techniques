@@ -12,4 +12,4 @@
  *  Using motd
 
 
-**Feel Free to add to this repo** 
+**If u have some other techniques, feel free to contribute here** 

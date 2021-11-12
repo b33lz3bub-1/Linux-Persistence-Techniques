@@ -9,3 +9,4 @@
  *  Using Systemctl
  *  Using Cron Jobs
  *  Using XDG
+ *  Using motd

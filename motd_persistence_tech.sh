@@ -2,7 +2,7 @@
 
 if [ $1 -z ]
 then
-        echo "$0 <shell commands>"
+        echo "$0 <shell commands or binary file path>"
         exit 1
 fi
 
